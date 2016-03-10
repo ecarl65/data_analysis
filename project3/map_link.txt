@@ -1,0 +1,5 @@
+http://overpass-api.de/api/map?bbox=-104.9600,39.4913,-104.5310,39.6678
+
+This is the area surrounding where I live and work. It is a 
+southern/southeastern suburb of Denver, Colorado, centered about a city
+named Centennial.

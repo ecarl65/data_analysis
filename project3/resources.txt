@@ -1,0 +1,4 @@
+Website used for ideas on investigating problems in data: 
+http://keepright.ipax.at/report_map.php?zoom=12&lat=39.95356&lon=-75.12364
+
+Website used for depicting the effects of certain tags on the cycling infrastructure: http://www.opencyclemap.org/?zoom=13&lat=39.57435&lon=-104.75121&layers=B0000

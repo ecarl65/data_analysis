@@ -1,0 +1,14 @@
+- Relationship between gender and survival (compared to population)
+- Relationship to passenger class and survival (compared to overall populaton)
+- Relationship to number of siblings on board and survival
+- Survivorship per cabin class
+- Age and survivorship
+- Relationship between pclass and survivorship
+
+- Batting percentage over time
+- ERA over time
+- HR to SO ratio
+- Salary vs avg, HR, etc.
+- Walks vs. HR
+
+- Number of players/teams per year

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2016-02-28T00:26:01Z"/>
+
+  <node id="358948411" lat="39.5541000" lon="-104.9571000" version="1" timestamp="2009-03-11T12:35:28Z" changeset="784670" uid="4732" user="iandees">
+    <tag k="amenity" v="school"/>
+    <tag k="ele" v="1760"/>
+    <tag k="gnis:county_id" v="035"/>
+    <tag k="gnis:created" v="03/30/2006"/>
+    <tag k="gnis:edited" v="05/16/2007"/>
+    <tag k="gnis:feature_id" v="2085564"/>
+    <tag k="gnis:state_id" v="08"/>
+    <tag k="name" v="Sand Creek Elementary School"/>
+  </node>
+
+</osm>
